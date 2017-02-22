@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					3F6755AA1E5C952E009A631F = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = RF3KK2425J;
 						ProvisioningStyle = Automatic;
 					};
 					3F6755BE1E5C952E009A631F = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RF3KK2425J;
 				INFOPLIST_FILE = PhotoNotes/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = RudhraKalvani.PhotoNotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RF3KK2425J;
 				INFOPLIST_FILE = PhotoNotes/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = RudhraKalvani.PhotoNotes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				3F6755D51E5C952E009A631F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F6755D61E5C952E009A631F /* Build configuration list for PBXNativeTarget "PhotoNotesTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				3F6755D81E5C952E009A631F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F6755D91E5C952E009A631F /* Build configuration list for PBXNativeTarget "PhotoNotesUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				3F6755DB1E5C952E009A631F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
